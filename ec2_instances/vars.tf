@@ -18,7 +18,7 @@ variable "INSTANCE_TYPE" {
 }
 
 variable "KEY_NAME" {
-  default = "TU_Dublin"
+  default = "rperry"
 }
 
 variable "TAGS" {
